@@ -1,4 +1,0 @@
-def teste():
-    print("hello, world!!")
-
-teste()
